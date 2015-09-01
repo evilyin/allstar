@@ -43,6 +43,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
             wode = new WDFragment();
         }
 
+        
     }
 
     @Override
