@@ -12,10 +12,10 @@ import com.youmingxing.R;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class WDFragment extends Fragment {
+public class SelfInfoFragment extends Fragment {
 
 
-    public WDFragment() {
+    public SelfInfoFragment() {
         // Required empty public constructor
     }
 
